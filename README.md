@@ -1,34 +1,34 @@
 <div align="center">
 
- [English](https://github.com/42sp/dontpanic_baby_JAB/blob/main/README_en.md) | [Português](https://github.com/nandajfa/dont_panic/blob/main/README.md)
+[English](https://github.com/nandajfa/dont_panic/blob/main/README_en.md) | [Português](https://github.com/nandajfa/dont_panic/blob/main/README.md)
 
-   [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/dont_panic/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/dont_panic/blob/main/LICENSE)
 
 </div>
 
 <h2 align="center"> DON'T PANIC, BABY!!!</h2>
 
- ###  Sobre o projeto
+### Sobre o projeto
 
 > _Don't panic baby é o primeiro projeto de setup da 3º edição do 42 Labs._
 
 ### ✔️ Tecnologias utilizadas
 
-- ``HTML``
-- ``CSS``
-- ``Javascript``
-- ``Node``
-- ``Express``
-- ``Jest``
-- ``Swagger`` 
+- `HTML`
+- `CSS`
+- `Javascript`
+- `Node`
+- `Express`
+- `Jest`
+- `Swagger`
 
 ### 💻 Requisitos do projeto
 
-* `node v18.12.1`
-* `express v4.18.2`
-* `jest v29.3.1`
-* `cors v2.8.5`
-* `nodemon v2.0.20`
+- `node v18.12.1`
+- `express v4.18.2`
+- `jest v29.3.1`
+- `cors v2.8.5`
+- `nodemon v2.0.20`
 
 ### 🛠️ Abrir e rodar o projeto
 
@@ -55,6 +55,7 @@ npm test
 ---
 
 ### 📑 Regras do Jogo
+
 <br/>
 
 > _O jogo consiste em adivinhar a equação oculta que resulta em “42”. O jogador terá uma resposta se a equação recebida é a correta através de dicas._
@@ -63,8 +64,7 @@ npm test
 
 - A equação secreta é sempre a mesma. <br>
 - Todas as equações devem resultar no número '42', caso contrário, a equação será rejeitada e não terá nenhuma dica de resposta.<br>
-- Os caracteres aceitos são números(0-9) e operadores(*, /, +, -).
-
+- Os caracteres aceitos são números(0-9) e operadores(\*, /, +, -).
 
 As dicas são:
 
@@ -81,7 +81,6 @@ Veja um exemplo:
 
 </div>
 
-
 ---
 
 ### Autores
@@ -94,7 +93,7 @@ Veja um exemplo:
   </tr>
 
 <br/>
- 
+
 <div align="right">
   <b><a href="#sobre-o-projeto">↥ back to top</a></b>
 </div>
