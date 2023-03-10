@@ -8,7 +8,7 @@
 
 <h2 align="center"> DON'T PANIC, BABY!!!</h2>
 
-### Sobre o projeto
+### About
 
 > _Don't panic baby is the first setup project of the 3rd edition of 42 Labs._
 
@@ -95,5 +95,5 @@ Let’s take a look at an example:
 <br/>
 
 <div align="right">
-  <b><a href="#sobre-o-projeto">↥ back to top</a></b>
+  <b><a href="#about">↥ back to top</a></b>
 </div>
