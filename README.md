@@ -89,7 +89,7 @@ Veja um exemplo:
   <tr>
     <td align="center"><a href="https://github.com/antoniominoru"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47220998?v=4" width="100px;" alt=""/><br /><sub><b>Antonio Minoru</b></sub></a><br />
     <td align="center"><a href="https://github.com/B-Mugnol"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71146215?v=4" width="100px;" alt=""/><br /><sub><b>Bruno Mugnol</b></sub></a><br />
-    <td align="center"><a href="https://www.linkedin.com/in/jessica-fernanda-106651205"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80687429?v=4" width="100px;" alt=""/><br /><sub><b>Jessica Fernanda</b></sub></a><br />
+    <td align="center"><a href="[https://www.linkedin.com/in/jessica-fernanda-106651205](https://www.linkedin.com/in/jessica-fernanda-programadora)](https://www.linkedin.com/in/jessica-fernanda-programadora)"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80687429?v=4" width="100px;" alt=""/><br /><sub><b>Jessica Fernanda</b></sub></a><br />
   </tr>
 
 <br/>
